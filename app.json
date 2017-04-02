@@ -1,0 +1,6 @@
+{
+  "name": "ng2blogapp",
+  "description": "todo: desc",
+  "repository": "https://github.com/papiroca-tm/ng2BlogApp",
+  "keywords": ["angular2", "express", "node", "blog"]
+}
